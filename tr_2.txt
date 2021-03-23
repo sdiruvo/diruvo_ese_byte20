@@ -1,0 +1,27 @@
+total 104
+drwxr-xr-x 5 fandreani     fandreani     4096 mar  8 08:58 andreani
+drwxr-xr-x 4 abianchi      abianchi      4096 mar  8 09:06 bianchi
+drwxr-xr-x 5 mbuccioni     mbuccioni     4096 mar  8 08:58 buccioni-mattia
+drwxr-xr-x 3 gcampi        gcampi        4096 mar  2 16:17 campi
+drwxr-xr-x 5 ckaiser       ckaiser       4096 mar  8 08:58 ckaiser
+drwxr-xr-x 5 ndaltorrione  ndaltorrione  4096 mar  8 08:56 daltorrione-nicola
+drwxr-xr-x 5 dsancebuche   dsancebuche   4096 mar  8 08:57 daryl-sancebuche
+drwxr-xr-x 4 sdellabona    sdellabona    4096 mar  2 15:41 dellabona
+drwxr-xr-x 4 pfilippelli   pfilippelli   4096 mar  8 08:58 filippelli
+drwxr-xr-x 4 mfontani      mfontani      4096 mar  2 16:33 fontani-matteo
+drwxr-xr-x 5 afrati        afrati        4096 mar  8 08:56 frati-andrea
+drwxr-xr-x 5 mfrizzoni     mfrizzoni     4096 mar  8 10:11 frizzoni-matteo
+drwxr-xr-x 5 lgianvincenzi lgianvincenzi 4096 mar  8 08:58 gianvincenzi-lorenzo
+drwxr-xr-x 4 agrisolini    agrisolini    4096 mar  2 15:50 grisolini-alberto
+drwxr-xr-x 5 lbianchini    lbianchini    4096 mar  8 08:57 lbianchini
+drwxr-xr-x 4 mbirelli      mbirelli      4096 mar  8 09:00 mbirelli
+drwxr-xr-x 5 gpapi         gpapi         4096 mar  8 09:32 papi
+drwxr-xr-x 5 gperondi      gperondi      4096 mar  8 08:56 perondi-giovanni
+drwxr-xr-x 2 cpieramici    cpieramici    4096 mar  2 16:23 pieramici
+drwxr-xr-x 5 squercioli    squercioli    4096 mar  8 08:58 quercioli
+drwxr-xr-x 7 gradini       gradini       4096 mar  8 08:56 radini-gabriele
+drwxr-xr-x 6 sdiruvo       sdiruvo       4096 mar  8 08:56 silvia-di-ruvo
+drwxr-xr-x 5 rsomigli      rsomigli      4096 mar  8 08:57 somigli-riccardo
+drwxr-xr-x 6 gveracini     gveracini     4096 mar  8 09:29 veracini-gianluca
+drwxr-xr-x 4 mvettori      mvettori      4096 mar  2 15:46 vettori-mattia
+drwxr-xr-x 5 fzucconi      fzucconi      4096 mar  8 08:57 zucconi
